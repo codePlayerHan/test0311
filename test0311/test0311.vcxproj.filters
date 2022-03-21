@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test0311.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="src\hw001.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -31,6 +28,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="src\hw005.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\hw006.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test0311.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -48,6 +51,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="head\hw005.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="head\hw006.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

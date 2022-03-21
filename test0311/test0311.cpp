@@ -2,7 +2,8 @@
 //#include "head/hw002.h"
 //#include "head/hw003.h"
 //#include "head/hw004.h"
-#include "head/hw005.h"
+//#include "head/hw005.h"
+#include "head/hw006.h"
 int main()
 {
 	//hw001 hw001;
@@ -17,7 +18,10 @@ int main()
 	//hw004 hw004;
 	//hw004.Calculation();
 
-	hw005 hw005;
-	hw005.Calculation();
+	//hw005 hw005;
+	//hw005.Calculation();
+
+	hw006 hw006;
+	hw006.Calculation();
 	return 0;
 }
