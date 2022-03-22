@@ -6,8 +6,8 @@
 #include <algorithm>
 using namespace std;
 
-hw009::hw009(){}
-hw009::~hw009(){}
+hw009::hw009() {}
+hw009::~hw009() {}
 
 void hw009::Calculation()
 {
@@ -66,7 +66,7 @@ void hw009::Calculation()
 			if (curTime <= time)
 				speedMax = speedMid;
 			else
-			
+
 				speedMin = speedMid + 1;
 		}
 		return speedMin;
@@ -104,4 +104,11 @@ void hw009::Calculation()
 		inputStr.clear();
 	}
 }
+
+void hw009::test()
+{
+	vector<vector<int>> vec(5, vector<int>(5, 1));
+	const int a = 99;
+}
+
 

@@ -21,6 +21,7 @@ public:
 	hw009();
 	~hw009();
 	void Calculation();
+	void test();
 private:
 	
 	

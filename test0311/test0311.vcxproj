@@ -156,6 +156,7 @@
     <ClCompile Include="src\hw007.cpp" />
     <ClCompile Include="src\hw008.cpp" />
     <ClCompile Include="src\hw009.cpp" />
+    <ClCompile Include="src\hw010.cpp" />
     <ClCompile Include="test0311.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -168,6 +169,7 @@
     <ClInclude Include="head\hw007.h" />
     <ClInclude Include="head\hw008.h" />
     <ClInclude Include="head\hw009.h" />
+    <ClInclude Include="head\hw010.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
