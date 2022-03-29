@@ -48,6 +48,9 @@
     <ClCompile Include="src\hw010.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\hw011.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="head\hw001.h">
@@ -78,6 +81,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="head\hw010.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="head\hw011.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
